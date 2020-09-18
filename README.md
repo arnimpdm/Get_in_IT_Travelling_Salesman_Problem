@@ -19,6 +19,4 @@ Format: ![Alt Text](url)
 
 ## You need an API key to run the routing, you can get one here: https://openrouteservice.org/
 
-## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
-
-https://nbviewer.jupyter.org/github/arnimpdm/Get_in_IT_Travelling_Salesman_Problem/blob/master/Get_In_IT_Travelling_Salesman_Problem-publish.ipynb
+Update: I did not finished in first place but received some feedback from msg. They told me that the code was very well-written and structured. Some issues they pointed out. My code finished among the top 5. 
